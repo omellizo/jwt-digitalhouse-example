@@ -16,7 +16,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"username\": \"oscar\",\r\n    \"password\": \"pass\"\r\n}",
+					"raw": "{\r\n    \"username\": \"viviana\",\r\n    \"password\": \"pass\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -44,7 +44,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJvc2NhciIsImV4cCI6MTY1NTQ4MDE0MCwiaWF0IjoxNjU1NDc5NTQwfQ.yZrbUSw-Vk9MoZ24rb8RtT56D6O8vHPY3AFUpzqmnG8",
+							"value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJvc2NhciIsImV4cCI6MTY1NTQ4MzU0OSwiaWF0IjoxNjU1NDgyOTQ5fQ.Sn4uaA-ZtFjnM1Ax0iXuaR7US0O1d6VeVnR0nfSFz50",
 							"type": "string"
 						}
 					]
@@ -82,7 +82,7 @@
 					"bearer": [
 						{
 							"key": "token",
-							"value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkaWFuYSIsImV4cCI6MTY1NTQ3OTk4MCwiaWF0IjoxNjU1NDc5MzgwfQ.Hd604l11rf2XBzp2y2FLEzwZgusKTl5IhPNNPRYl2mo",
+							"value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ2aXZpYW5hIiwiZXhwIjoxNjU1NDkxNzIxLCJpYXQiOjE2NTU0OTExMjF9.BraXj0jeKyPndpMYBSmTF0SE3bA_dgWGulC2MZVo8AI",
 							"type": "string"
 						}
 					]
